@@ -1,0 +1,19 @@
+{
+  "name": "COMP1073-Lesson11",
+  "homepage": "https://github.com/hanvinder/COMP-1073-Lesson-11",
+  "authors": [
+    "hanvinder <hanvinder@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
